@@ -8,7 +8,7 @@ body {
 	}
 #header a{
 	font-size:14px;
-	font-family:"arial black";
+	font-family:"arial black"，sans-serif;
 	text-decoration:none;
 	color:#666;
 	}
@@ -42,7 +42,7 @@ body {
 	}
 #nav a{
 	font-size:20px;
-	font-family:"arial black";
+	font-family:"arial black"，sans-serif;
 	text-decoration:none;
 	color:#000;
 	margin-left:50px;
@@ -82,7 +82,7 @@ body {
 	border:0px;
 	}
 .detail{
-	font-family:"arial black","arial narrow";
+	font-family:"arial black","arial narrow"，sans-serif;
 	font-size:12px;
 	color:#6699FF;
 	position:relative;
